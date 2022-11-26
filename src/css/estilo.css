@@ -7,7 +7,7 @@ body {
     font-family: 'VT323', monospace;
 
     color: white;
-    font-size: 18px;
+    font-size: 50px;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -18,7 +18,7 @@ body {
 }
 .cartao {
     background-color: #161a3394;
-    width: 370px;
+    width: 470px;
     border: 2px solid #f54b08;
     border-radius: 10px;
     overflow: hidden;
@@ -47,7 +47,7 @@ h1, h2 {
 }
 
 .cartao .minhas-informacoes .nome {
-    font-size: 26px;
+    font-size: 40px;
 
 }
 .cartao .minhas-informacoes .cargo {
